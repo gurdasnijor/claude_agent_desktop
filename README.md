@@ -1,5 +1,8 @@
 # Claude Agent Desktop
 
+[![Run in Smithery](https://smithery.ai/badge/skills/fergana-labs)](https://smithery.ai/skills?ns=fergana-labs&utm_source=github&utm_medium=badge)
+
+
 <img width="2382" height="1594" alt="CleanShot 2025-11-10 at 13 53 01@2x" src="https://github.com/user-attachments/assets/c60b1923-cc3a-4a16-9408-b0d99eb69776" />
 
 
